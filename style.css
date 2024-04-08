@@ -1,3 +1,29 @@
 .navbar{
-   background-color: black;
+   margin: 0; 
+   background-color: rgb(30,30,70);
+   display: flex;
+   justify-content: space-around; 
+   border-radius: 50px;
+   font-size: 10px;
+
+}
+.logo{
+    width: fit-content;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(255, 183, 0);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+   }
+   .ece{
+      color: white;
+   
+}
+.bfgf{
+   color: red;
+}
+body{
+   background-color:aquamarine;
 }
